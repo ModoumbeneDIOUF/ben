@@ -84,7 +84,7 @@
         <div class="carousel-inner" role="listbox">
 
           <!-- Slide 1 -->
-          <div class="carousel-item active" style="background-image: url('assets/img/slide/slide-4.jpeg');">
+          <div class="carousel-item active" style="background-image: url('assets/img/slide/ben1.jpg');">
             <div class="carousel-container">
               <div class="carousel-content container">
                 <h2 class="animate__animated animate__fadeInDown active">BIENVENUE CHEZ <span>BEN METAL WORK</span></h2>
@@ -95,7 +95,7 @@
           </div>
 
           <!-- Slide 2 -->
-          <div class="carousel-item" style="background-image: url('assets/img/slide/slide-5.jpeg');">
+          <div class="carousel-item" style="background-image: url('assets/img/slide/ben.jpg');">
             <div class="carousel-container">
               <div class="carousel-content container">
                 <h2 class="animate__animated animate__fadeInDown">Lorem Ipsum Dolor</h2>
@@ -106,7 +106,7 @@
           </div>
 
           <!-- Slide 3 -->
-          <div class="carousel-item" style="background-image: url('assets/img/slide/slide-6.jpeg');">
+          <div class="carousel-item" style="background-image: url('assets/img/slide/ben2.jpg');">
             <div class="carousel-container">
               <div class="carousel-content container">
                 <h2 class="animate__animated animate__fadeInDown">Lorem Ipsum Dolor</h2>
@@ -180,7 +180,7 @@
           <div class="col-lg-4 col-md-6 content-item" data-aos="fade-up" data-aos-delay="100">
             <span>02</span>
             <h4>Professionnalisme </h4>
-            <p>Dolorem est fugiat occaecati voluptate velit esse. Dicta veritatis dolor quod et vel dire leno para dest</p>
+            <p>Professionnalisme technique et professionnalisme éthique. C'est de bien faire son travail, pour la définition industrielle du professionnalisme, c'est être en mesure de donner une réponse techniquement performante à un problème?; être compétent, c'est mobiliser le savoir-faire le plus approprié à une situation.</p>
           </div>
 
           <div class="col-lg-4 col-md-6 content-item" data-aos="fade-up" data-aos-delay="200">
