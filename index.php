@@ -5,10 +5,19 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>BEN METAL WORK Bootstrap Template - Index</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  <title>BEN METAL WORK. Ben metal work. Construction métallique. Soudronerie. Soudronerie Senegal. Construction métallique Sénégal </title>
+   <meta charset="utf-8">
+       <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
+      <meta name="description" content="Ben metal work. Construction métallique. Soudronerie. Soudronerie Senegal. Construction métallique Sénégal">
+
+    <meta content="" name="keywords">
+    <meta name="distribution" content="global">
+    <meta name="revisit-after" content="2 Days">
+    <meta name="robots" content="ALL">
+    <meta name="rating" content="8 YEARS">
+    <meta name="Language" content="en-us">
+    <meta name="GOOGLEBOT" content="NOARCHIVE">
   <!-- Favicons #00235d #ff3326 -->
   <link href="assets/img/logo.jpg" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
@@ -144,7 +153,16 @@
 
             <div class="section-title">
               <h2>À Propos de Ben Metal Work</h2>
-              <p>Ben Metal Work est une entreprise de constructions ............................................................................</p>
+              <p>En tant que leader dans le secteur de la construction métallique, 
+                nous avons à cœur de répondre à tous les besoins spécifiques de nos clients. 
+                Quelle que soit la taille de votre entreprise ou bien l’envergure de votre projet, 
+                nous répondons toujours présent. Notre expertise nous permet en effet de prendre en
+                 charge des projets complexes. Pour cela nous sdisposons d’atouts qui font notre force.<br/> 
+                 Durant toutes les étapes de la conception de votre ossature métallique nous mettons tout en
+                  œuvre pour garantir la sécurité de nos employés ainsi que celle des futurs utilisateurs de nos constructions. <br/>
+                  L’esprit Ben Metal Work c’est avant tout le respect de nos clients internes et externes, le respect de nos équipes sur site, 
+                  le respect des réglementations, l’écoute de nos clients ainsi que notre force de proposition.
+                </p>
             </div>
 
             <!-- <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
@@ -173,7 +191,8 @@
 
           <div class="col-lg-4 col-md-6 content-item" data-aos="fade-up">
             <span>01</span>
-            <h4>Rapidité</h4>
+            <h4>Expérience
+            </h4>
             <p>Ulamco laboris nisi ut aliquip ex ea commodo consequat. Et consectetur ducimus vero placeat</p>
           </div>
 
@@ -185,7 +204,7 @@
 
           <div class="col-lg-4 col-md-6 content-item" data-aos="fade-up" data-aos-delay="200">
             <span>03</span>
-            <h4>Garantie</h4>
+            <h4>Satisfaction client</h4>
             <p>Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt debitis quo vel nam quis</p>
           </div>
 
@@ -242,22 +261,22 @@
         </div>
 
         <div class="row">
-          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up">
+          <div class="col-lg-6 col-md-6 icon-box" data-aos="fade-up">
             <div class="icon"><i class="bi bi-chat-left-dots"></i></div>
-            <h4 class="title"><a href="">Service 1</a></h4>
-            <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+            <h4 class="title"><a href="">Soudronerie</a></h4>
+            <p class="description"></p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
             <div class="icon"><i class="bi bi-bounding-box"></i></div>
-            <h4 class="title"><a href="">Service 2</a></h4>
-            <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+            <h4 class="title"><a href="">Construction métallique</a></h4>
+            <p class="description"></p>
           </div>
-          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
+          <!-- <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
             <div class="icon"><i class="bi bi-globe"></i></div>
             <h4 class="title"><a href="">Service 3</a></h4>
             <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
-          </div>
-          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
+          </div> -->
+          <!-- <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
             <div class="icon"><i class="bi bi-broadcast"></i></div>
             <h4 class="title"><a href="">Service 4</a></h4>
             <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
@@ -271,7 +290,7 @@
             <div class="icon"><i class="bi bi-calendar2-week"></i></div>
             <h4 class="title"><a href="">Service 6</a></h4>
             <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
-          </div>
+          </div> -->
         </div>
 
       </div>
@@ -313,7 +332,6 @@
           </div>
 
          
-
         </div>
 
       </div>
@@ -357,9 +375,8 @@
           <div class="col-lg-4 col-md-6 footer-links">
             <h4>Nos service</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">service 1</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">service 2</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">service 3</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Soudronerie </a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Construction métallique</a></li>
               
             </ul>
           </div>
@@ -371,7 +388,10 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>BEN METAL WORK</span></strong>. All Rights Reserved
+          
+        &copy; Copyright <script>
+                document.write(new Date().getFullYear());
+                    </script> <strong><span>BEN METAL WORK</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
